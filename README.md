@@ -26,12 +26,18 @@ Demonstrate your understanding of this Sprint's concepts by answering the follow
 
 - [ ] What is React JS and what problems does it try and solve? Support your answer with concepts introduced in class and from your personal research on the web.
 
+React.js is a library with the power of the framework.It manipulates data dynamically. You can take an api of data and with dot notation pass in a key value pair.
+
 - [ ] What does it mean to _think_ in react?
 
+Start to go from static layout to a component based layout with reusable code.Being able to build blocks of code rather than a block of code.
+
+
 - [ ] Describe state.
+State is a giant object that you can pull your data from.
 
 - [ ] Describe props.
-
+You can pass attributes between your application using props.
 ## Project Set Up
 
 Follow these steps to set up and work on your project:
