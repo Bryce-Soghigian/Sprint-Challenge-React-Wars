@@ -1,0 +1,18 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`should match snapshot 1`] = `
+<div>
+  <div
+    className="App sc-ifAKCX eElCZh"
+  >
+    <h1
+      className="Header sc-bxivhb jfvjLW"
+    >
+      React Wars
+    </h1>
+    <div
+      className="sc-htpNat dGJvIq"
+    />
+  </div>
+</div>
+`;
